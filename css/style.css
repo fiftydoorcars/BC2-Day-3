@@ -1,0 +1,14 @@
+.container {
+  background-color: blue;
+  height: 200px;
+}
+
+.container-fluid {
+  background-color: red;
+  height: 300px;
+}
+
+.col-md-1 {
+  border: 1px solid black;
+  height: 100px;
+}
